@@ -1,14 +1,12 @@
 {
-  "name":"IG Tracker",
+  "name":"Instagram Content Tracker Mobile",
   "short_name":"IG Tracker",
   "start_url":"./",
   "scope":"./",
   "display":"standalone",
-  "display_override":["standalone","minimal-ui"],
-  "background_color":"#f2f2f7",
-  "theme_color":"#f2f2f7",
-  "description":"Tracker mobile per organizzare e controllare i contenuti Instagram.",
-  "categories":["productivity","utilities"],
+  "background_color":"#f4f6f8",
+  "theme_color":"#111318",
+  "description":"Tracker mobile per contenuti Instagram",
   "icons":[
     {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
   ]
